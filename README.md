@@ -34,15 +34,15 @@
             <img src="https://github-profile-trophy.vercel.app/?username=pabloswe&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloswe"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabloswe&theme=dark"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=pabloswe&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=pabloswe&count_private=true&show_icons=true&theme=dark"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloswe&langs_count=10&layout=compact"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloswe&langs_count=10&layout=compact&theme=dark"/>
         </td>
     </tr>
 </table>
