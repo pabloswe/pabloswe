@@ -4,7 +4,7 @@
 - 💻 Passionate Software Development Engineer at Amazon Prime Video
 - 📚 Excited about Algorithms & Data Structures
 - 🌱 Specializing in enhancing living room entertainment experiences
-- ⚛️ Skilled in Full Stack Development with React, TypeScript, and Kotlin.
+- ⚛️ Skilled in Full Stack Development with React, TypeScript, and Kotlin
 - 🧑‍🏫 Committed to empowering the next generation
 
 <br/>
